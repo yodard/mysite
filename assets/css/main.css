@@ -9,7 +9,7 @@ body,html {
      color:white;
 
     }
-.grey-copy{ color: rgb(145, 28, 109);
+.grey-copy{ color: #922741;
 
     }
 li{color: rgb(34, 80, 94)}
@@ -51,5 +51,5 @@ ul.icons > li {
     position:fixed;
     bottom:0;
     min-height:100px;
-    background-color: rgb(145, 28, 109);
+    background-color: #922741;
 }
