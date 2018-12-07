@@ -18,7 +18,7 @@ h1,h2,h3,h4,h5,h6 {
     font-family: 'Roboto Condensed', sans-serif;
 }
 i{
-    font-size:60px;
+    font-size:50px;
     color: white
 }
 
@@ -36,7 +36,7 @@ img {
 }
 
 ul.icons {
-    width: 200px;
+    width: 250px;
     display: block;
     margin: 0 auto;
 }
